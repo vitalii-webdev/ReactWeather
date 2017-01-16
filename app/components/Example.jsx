@@ -3,7 +3,10 @@
 
 	var Example = (props) => {
 		return (
-			<h2> Example Component! </h2>
+			<div>
+				<h2> Example Component! </h2>
+				<p> Welcome to examples page! </p>
+			</div>
 		);
 	}
 
